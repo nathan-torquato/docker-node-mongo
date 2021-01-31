@@ -1,3 +1,5 @@
+> [video](https://www.youtube.com/watch?v=hP77Rua1E0c)
+
 # Docker Node MongoDB Example
 
 > Simple example of a dockerized Node/Mongo app
